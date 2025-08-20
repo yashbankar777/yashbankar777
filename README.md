@@ -1,6 +1,6 @@
 # Hey there! I'm Yash 👋
 
-🎓 Final-year AI & Data Science Engineering student | 💡 Driven by curiosity, coffee, and code  
+🎓 AI & Data Science Engineering Graduate | 💡 Driven by curiosity, coffee, and code  
 🔍 Passionate about building data-driven products that solve real-world problems  
 📊 Focused on Data Science, Machine Learning, and Intelligent Systems  
 🚀 Currently exploring cutting-edge ML, high-frequency trading models, and full-stack data applications
