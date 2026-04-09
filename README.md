@@ -1,11 +1,15 @@
 # Hey there! I'm Yash 👋
 
-🎓 AI & Data Science Engineering Graduate | 💡 Driven by curiosity, coffee, and code  
-🔍 Passionate about building data-driven products that solve real-world problems  
-📊 Focused on Data Science, Machine Learning, and Intelligent Systems  
-🚀 Currently exploring cutting-edge ML, high-frequency trading models, and full-stack data applications
+🎓 Master’s in Data Science @ UTS | AI & Data Science Engineer
+💡 Driven by curiosity, coffee, and code
+🔍 Building data-driven systems that solve real-world problems
+📊 Focused on Data Science, Machine Learning, and Intelligent Systems
+🚀 Exploring algorithmic trading, scalable ML systems, and full-stack data apps
 
-> "In a world full of noise, let your models do the talking."
+⚡ Strong interest in turning raw data into actionable insights and production-ready solutions
+
+> In a world full of noise, let your models do the talking.
+
 
 ## 🚀 Tech Stack
 
