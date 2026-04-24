@@ -10,49 +10,87 @@ In a world full of noise, let your models do the talking.
 
 🚀 Tech Stack
 🧠 Programming Languages
+
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
+
 https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
 
 📊 Data Science & ML
+
 https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+
 https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+
 https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
 https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white
+
 https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+
 https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+
 https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
 
+
 🧠 Deep Learning
+
 https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 
+
 💽 Databases
+
 https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+
 https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
+
 📈 Data Visualization & Analytics
+
 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+
 https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 
+
 🌐 Web & Deployment
+
 https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+
 https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+
 https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 
+
 🧰 Tools & IDEs
+
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
 https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white
+
 https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
+
 🎨 UI/UX & Design
+
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
 https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
 
+
 📊 GitHub Stats
+
 https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark
